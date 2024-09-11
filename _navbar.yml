@@ -1,19 +1,31 @@
-name: "Mywebsite"
-title: "My new website"
+name: "Francis Recipes"
+title: "Home"
 type: inverse
 left:
-  - text: "About me"
+  - text: "Dinner"
     menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
-  - text: "Project"
-    menu:
-       - text: "Project part 1"
-         href: ./project1.html
-       - text: "Project part 2"
-         href: ./project2.html
-  - text: "Contact"
-    href: ./contact.html
+      - text: "American"
+        href: ./american.html
+      - text: "German"
+        href: ./german.html
+      - tect: "Polish"
+        href: ./polish.html
+  - text: "Lunch"
+    href: ./project1.html
+  - text: "Breakfast"
+    href: ./breakfast.html
+  - text: "Sides"
+    href: ./sides.html
+  - text: "Dessert"
+    href: ./dessert.html
+  - text: "Snack"
+    href: ./snack.html
+  - text: "Holiday"
+    menu: 
+      - text: "Christmas"
+        href: ./christmas.html
+      - text: "Halloween"
+        href: ./halloween.html
 right:
   - icon: fa-github fa-lg
     href: https://github.com/githubusername/mywebsite
