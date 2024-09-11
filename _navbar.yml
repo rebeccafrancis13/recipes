@@ -11,7 +11,7 @@ left:
       - tect: "Polish"
         href: ./polish.html
   - text: "Lunch"
-    href: ./project1.html
+    href: ./lunch.html
   - text: "Breakfast"
     href: ./breakfast.html
   - text: "Sides"
